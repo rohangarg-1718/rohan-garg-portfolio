@@ -4,7 +4,7 @@ A modern and fully responsive developer portfolio built using React.js, Tailwind
 
 ## 🌐 Live Demo
 
-Portfolio Website: coming soon
+Portfolio Website: https://rohan-garg-portfolio.netlify.app/
 
 ## 👨‍💻 About Me
 
@@ -66,8 +66,7 @@ I am Rohan Garg, a Computer Science Engineering graduate and Full Stack Develope
 
 ## 📬 Contact
 
-* LinkedIn: https://www.linkedin.com/in/rohan-garg-a81a0529b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* GitHub: https://github.com/rohangarg-1718
+* LinkedIn: https://www.linkedin.com/in/rohan-garg-a81a0529b/
 * Email: [rohangarg6396@gmail.com](mailto:rohangarg6396@gmail.com)
 
 ---
