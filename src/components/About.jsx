@@ -15,23 +15,22 @@ function About() {
             </h2>
             <div className="w-20 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 rounded-full mt-4 mb-8"></div>
 
-            <div className="bg-slate-900/70 border border-slate-800 rounded-2xl p-8">
-                <div className="bg-slate-900/70 border border-slate-800 rounded-2xl p-8">
-                    <p className="text-slate-300 text-lg leading-8">
+            <div className="bg-slate-900/70 border border-slate-800 rounded-2xl p-5 md:p-8 overflow-hidden">
+                    <p className="text-slate-300 text-base md:text-lg leading-7 md:leading-8">
                         I'm <span className="text-blue-400 font-semibold">Rohan Garg</span>,
                         a Computer Science Engineering graduate and Full Stack Developer
                         passionate about building scalable web applications and solving
                         real-world problems through technology.
                     </p>
 
-                    <p className="text-slate-300 text-lg leading-8 mt-6">
+                    <p className="text-slate-300 text-base md:text-lg leading-7 md:leading-8 mt-6">
                         I have hands-on experience developing applications using React.js,
                         Next.js, Node.js, Express.js, MongoDB, Supabase, and REST APIs.
                         My strongest projects include a Flight Management Web Application
                         and an Online Food Ordering Platform.
                     </p>
 
-                    <p className="text-slate-300 text-lg leading-8 mt-6">
+                    <p className="text-slate-300 text-base md:text-lg leading-7 md:leading-8 mt-6">
                         I qualified
                         <span className="text-blue-400 font-semibold">
                             {" "}GATE CS 2026{" "}
@@ -40,11 +39,11 @@ function About() {
                         understanding of DSA, DBMS, Operating Systems, and Computer Networks.
                     </p>
 
-                    <p className="text-slate-300 text-lg leading-8 mt-6">
+                    <p className="text-slate-300 text-base md:text-lg leading-7 md:leading-8 mt-6">
                         Currently seeking Full Stack Developer, Software Developer,
                         and SDE opportunities where I can contribute, learn, and grow.
                     </p>
-                    <div className="grid grid-cols-2 gap-4 mt-10">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-10">
                         <div className="bg-slate-800 rounded-xl p-4 hover:border-blue-500 hover:-translate-y-2 transition duration-300">
                             <h4 className="text-blue-400 font-semibold">
                                 🏆 GATE Qualified
@@ -82,7 +81,7 @@ function About() {
                         </div>
                     </div>
                 </div>
-            </div>
+        
         </motion.section>
     );
 }
