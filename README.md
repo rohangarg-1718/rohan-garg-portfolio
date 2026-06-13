@@ -1,16 +1,75 @@
-# React + Vite
+# 🚀 Rohan Garg Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive developer portfolio built using React.js, Tailwind CSS, Framer Motion, and Vite.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Portfolio Website: coming soon
 
-## React Compiler
+## 👨‍💻 About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am Rohan Garg, a Computer Science Engineering graduate and Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology.
 
-## Expanding the ESLint configuration
+* 🎓 B.Tech in Computer Science & Engineering
+* 🏆 GATE CS 2026 Qualified (Score: 449, Percentile: 94.3)
+* 💻 Full Stack Developer (MERN Stack)
+* 🚀 Open to Software Developer, Full Stack Developer, and SDE opportunities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* JavaScript
+* Framer Motion
+
+### Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* Vite
+* Responsive Design
+
+## ✨ Features
+
+* Responsive Design
+* Smooth Animations
+* Interactive UI
+* Project Showcase
+* Certifications Section
+* Contact Information
+* Resume Download
+* Mobile Friendly Layout
+
+## 📂 Featured Projects
+
+### Flight Management Web App
+
+* Next.js
+* TypeScript
+* Supabase
+* Zustand
+
+### Online Food Ordering Website
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+### Computer Center Organization Website
+
+* HTML
+* CSS
+* JavaScript
+
+## 📬 Contact
+
+* LinkedIn: https://www.linkedin.com/in/rohan-garg-a81a0529b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* GitHub: https://github.com/rohangarg-1718
+* Email: [rohangarg6396@gmail.com](mailto:rohangarg6396@gmail.com)
+
+---
+
+⭐ If you like this project, consider giving it a star.
