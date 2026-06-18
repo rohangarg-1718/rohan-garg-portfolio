@@ -67,7 +67,7 @@ function Hero() {
 
                     <div className="flex gap-4 mt-8 flex-wrap">
                         <a
-                            href="/ROHAN_GARG_RESUME.pdf"
+                            href="/ROHAN-GARG-RESUME.pdf"
                             download
                             className="bg-blue-600 hover:bg-blue-700 px-6 py-3 rounded-lg font-medium transition"
                         >
@@ -128,9 +128,9 @@ function Hero() {
 
                     <div className="grid grid-cols-2 gap-4 mt-8 w-full max-w-md">
                         {[
-                            ["94.3%", "GATE Percentile"],
+                            ["94.3%ile", "GATE Percentile"],
                             ["3+", "Projects"],
-                            ["78.37%", "B.Tech Percentage"],
+                            ["81.34%", "B.Tech Percentage"],
                             ["2026", "CSE Graduate"],
                         ].map(([value, label]) => (
                             <div

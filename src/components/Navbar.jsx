@@ -79,7 +79,7 @@ function Navbar() {
 
                     {/* Desktop Resume Button */}
                     <a
-                        href="/ROHAN_GARG_RESUME.pdf"
+                        href="/ROHAN-GARG-RESUME.pdf"
                         download
                         className="hidden md:flex items-center gap-2 bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-full text-sm font-medium transition shadow-lg shadow-blue-500/20"
                     >

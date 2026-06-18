@@ -43,7 +43,7 @@ function Education() {
               </span>
 
               <span className="bg-slate-800 px-3 py-2 rounded-lg text-sm">
-                📊 78.37%
+                📊 81.34%
               </span>
 
               <span className="bg-slate-800 px-3 py-2 rounded-lg text-sm">
